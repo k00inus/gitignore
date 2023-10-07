@@ -1,5 +1,5 @@
 # ignore single file
-no-file.txt
+new-file.txt
 # ignore bin folfer
 bin/
 
