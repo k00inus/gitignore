@@ -1,3 +1,7 @@
+# ignore single file
 new-file.txt
-
+# ignore bin folfer
 bin/
+
+# ignore all .tmp files
+*.tmp
